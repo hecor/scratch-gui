@@ -1,6 +1,6 @@
 webpackJsonp([3],{
 
-/***/ 462:
+/***/ 457:
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -14,7 +14,7 @@ var _react = __webpack_require__(0);
 
 var _react2 = _interopRequireDefault(_react);
 
-var _reactDom = __webpack_require__(17);
+var _reactDom = __webpack_require__(14);
 
 var _reactDom2 = _interopRequireDefault(_reactDom);
 
@@ -24,7 +24,7 @@ var _appStateHoc = __webpack_require__(29);
 
 var _appStateHoc2 = _interopRequireDefault(_appStateHoc);
 
-var _controls = __webpack_require__(34);
+var _controls = __webpack_require__(35);
 
 var _controls2 = _interopRequireDefault(_controls);
 
@@ -36,11 +36,11 @@ var _box = __webpack_require__(7);
 
 var _box2 = _interopRequireDefault(_box);
 
-var _gui = __webpack_require__(32);
+var _gui = __webpack_require__(33);
 
 var _gui2 = _interopRequireDefault(_gui);
 
-var _projectLoaderHoc = __webpack_require__(35);
+var _projectLoaderHoc = __webpack_require__(36);
 
 var _projectLoaderHoc2 = _interopRequireDefault(_projectLoaderHoc);
 
@@ -147,5 +147,5 @@ _reactDom2.default.render(_react2.default.createElement(App, null), appTarget);
 
 /***/ })
 
-},[462]);
+},[457]);
 //# sourceMappingURL=compatibilitytesting.js.map
